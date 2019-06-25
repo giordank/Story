@@ -1,1 +1,1 @@
-This is aliens chapter, that serves as a branch of the master.
+This is aliens chapter, that serves as a branch off master.
